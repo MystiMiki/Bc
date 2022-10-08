@@ -11,6 +11,7 @@ Osnova:
 6. Zhodnocení hororových prvků dle výsledků pozorování
 
 Literatura
+
 1.
 
 2.

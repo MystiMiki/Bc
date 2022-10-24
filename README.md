@@ -1,19 +1,27 @@
-# Vývoj simulátor hororové hry ve virtuální realitě
+#Vývoj simulátoru hororového zážitku ve virtuální realitě
 
-Cílem práce je vytvořit hororový simulátor, u kterého lze měřit fyziologické informace. Díky kterým, poté můžeme zpracovat jednotlivé hororové prvky a jednotlivě posoudit, jaký vliv mají samostatné nebo ucelené sekce hororových prvků. Simulátor bude řídit game master, jeho hlavní role bude ve výběru a určení pořadí hororových prvků. Výsledný simulátor bude sloužit pro vyhodnocení hororových prvků a jejich vlivu na strach.
+##Development of a horror experience simulator in virtual reality
+
+
+Cílem práce je vytvořit simulátor hororového zážitku pro měření behaviorálních a fyziologických dat. Simulátor bude řídit administrátor hry, jehož hlavní role bude ve výběru a určení pořadí hororových prvků. Mezi hororovými prvky budou zvukové efekty i 3D modely (objektů a postav) s texturami. Naměřené informace z VR headsetu (sledování pohybu očí) a z ovladačů pro VR (kinematické a dynamické veličiny) budou sloužit pro posouzení efektivity hororových prvků ve videohrách.
+
 
 Osnova:
-1. Virtuální realita
-2. Psychologie hororu
-3. Získání a třídění existujících hororvých aktiv
-4. Návrh simulátoru a implementace aplikace
-5. Měření fyziologických informací 
-6. Zhodnocení hororových prvků dle výsledků pozorování
 
-Literatura
+1. psychologie hororových médií,
 
-1.
+2. technologie virtuální reality,
 
-2.
+3. videoherní návrh,
 
-3.
+4. implementace simulátoru v enginu Unity,
+
+5. měření behaviorálních a fyziologických dat,
+
+6. zhodnocení efektivity hororových prvků.
+
+Literatura* 
+
+FULLERTON, Tracy. Workshop herního designu: průvodce tvorbou inovativních her. Praha: Nakladatelství AMU, 2021. ISBN 978-80-7331-568-9.
+HOLAN, Tomáš. Unity: první seznámení s tvorbou počítačových her. Praha: CZ.NIC, z.s.p.o., 2020. ISBN 978-80-88168-57-7.
+NIELSEN, Danny Langhoff. In The Mood for Horror: A Game Designers Approach on Investigating Engagement, Involvement, and Immersion in Horror Games [online]. Copenhagen: Aalborg University Cph, 2013 [cit. 2022-10-22]. Dostupné z: https://projekter.aau.dk/projekter/files/76674331/In_the_mood_for_horror.pdf
